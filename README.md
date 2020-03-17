@@ -1,22 +1,22 @@
 
-## PAT Online Judge(https://pintia.cn/problem-sets) [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Ftiny656%2FPAT%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/tiny656/PAT/goto?ref=master)
+## PAT Online Judge(https://pintia.cn/problem-sets)
 
-:books:PATÊÇÕã½­´óÑ§¼ÆËã»ú³ÌĞòÉè¼ÆÄÜÁ¦²âÊÔÏµÍ³£¬±»ÓÃÓÚÑĞ¾¿Éú»úÊÔºÍPATÖ¤Êé×Ê¸ñ²âÊÔ
+:books:PATæ˜¯æµ™æ±Ÿå¤§å­¦è®¡ç®—æœºç¨‹åºè®¾è®¡èƒ½åŠ›æµ‹è¯•ç³»ç»Ÿï¼Œè¢«ç”¨äºç ”ç©¶ç”Ÿæœºè¯•å’ŒPATè¯ä¹¦èµ„æ ¼æµ‹è¯•
 
-Õâ¸öProjectÎ¬»¤´ó²¿·ÖÌâ¿âµÄ´úÂë£¬ÆäÖĞµÄÒ»Ğ©Ò²²Î¿¼¹ıÒ»Ğ©blog°æ±¾
+è¿™ä¸ªProjectç»´æŠ¤å¤§éƒ¨åˆ†é¢˜åº“çš„ä»£ç ï¼Œå…¶ä¸­çš„ä¸€äº›ä¹Ÿå‚è€ƒè¿‡ä¸€äº›blogç‰ˆæœ¬
 
-´úÂëÖ÷ÒªÓïÑÔÊ¹ÓÃ`C++`, `C`, `Python`, `Java`
+ä»£ç ä¸»è¦è¯­è¨€ä½¿ç”¨`C++`, `C`, `Python`, `Java`
 
-¾ø´ó¶àÊı´úÂëÖĞ¿ªÍ·µÄ×¢ÊÍĞ´ÓĞ¼òµ¥µÄ½âÌâË¼Â·£¬Ï£Íû¶Ô´ó¼ÒÄÜÓĞËù°ïÖú£¬ÓĞ¹ØÑĞ¾¿ÉúÉú»îµÄĞÅÏ¢£¬Ò²»¶Ó­×ÉÑ¯:smiley:
+ç»å¤§å¤šæ•°ä»£ç ä¸­å¼€å¤´çš„æ³¨é‡Šå†™æœ‰ç®€å•çš„è§£é¢˜æ€è·¯ï¼Œå¸Œæœ›å¯¹å¤§å®¶èƒ½æœ‰æ‰€å¸®åŠ©ï¼Œæœ‰å…³ç ”ç©¶ç”Ÿç”Ÿæ´»çš„ä¿¡æ¯ï¼Œä¹Ÿæ¬¢è¿å’¨è¯¢:smiley:
 
 
-## Ä¿Â¼
+## ç›®å½•
 - [Top-Level](#top-level)
 - [Advance-Level](#advance-level)
 - [Basic-Level](#basic-level)
-- [ÖĞ¹ú´óÑ§MOOC-³ÂÔ½¡¢ºÎÇÕÃú-Êı¾İ½á¹¹-Æğ²½ÄÜÁ¦×Ô²âÌâ](#ÖĞ¹ú´óÑ§mooc-³ÂÔ½ºÎÇÕÃú-Êı¾İ½á¹¹-Æğ²½ÄÜÁ¦×Ô²âÌâ)
-- [»ù´¡±à³ÌÌâÄ¿¼¯](#»ù´¡±à³ÌÌâÄ¿¼¯)
-- [Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯(ÖĞÎÄ)](#Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯ÖĞÎÄ)
+- [ä¸­å›½å¤§å­¦MOOC-é™ˆè¶Šã€ä½•é’¦é“­-æ•°æ®ç»“æ„-èµ·æ­¥èƒ½åŠ›è‡ªæµ‹é¢˜](#ä¸­å›½å¤§å­¦mooc-é™ˆè¶Šä½•é’¦é“­-æ•°æ®ç»“æ„-èµ·æ­¥èƒ½åŠ›è‡ªæµ‹é¢˜)
+- [åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†](#åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†)
+- [æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†(ä¸­æ–‡)](#æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ä¸­æ–‡)
 
 # Top-Level
 | ID | Title | Code |
@@ -206,222 +206,222 @@
 # Basic-Level
 | ID | Title | Code |
 | :--: | :--: | :--: |
-| 1001 | º¦ËÀÈË²»³¥ÃüµÄ(3n+1)²ÂÏë (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1001_º¦ËÀÈË²»³¥ÃüµÄ(3n+1)²ÂÏë%20(15).cpp) |
-| 1002 | Ğ´³öÕâ¸öÊı (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1002_Ğ´³öÕâ¸öÊı%20(20).cpp) |
-| 1003 | ÎÒÒªÍ¨¹ı£¡(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1003_ÎÒÒªÍ¨¹ı£¡(20).cpp) |
-| 1004 | ³É¼¨ÅÅÃû (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1004_³É¼¨ÅÅÃû%20(20).cpp) |
-| 1005 | ¼ÌĞø(3n+1)²ÂÏë (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1005_¼ÌĞø(3n+1)²ÂÏë%20(25).cpp) |
-| 1006 | »»¸ö¸ñÊ½Êä³öÕûÊı (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1006_»»¸ö¸ñÊ½Êä³öÕûÊı%20(15).cpp) |
-| 1007 | ËØÊı¶Ô²ÂÏë (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1007_ËØÊı¶Ô²ÂÏë%20(20).cpp) |
-| 1008 | Êı×éÔªËØÑ­»·ÓÒÒÆÎÊÌâ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1008_Êı×éÔªËØÑ­»·ÓÒÒÆÎÊÌâ%20(20).cpp) |
-| 1009 | Ëµ·´»° (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1009_Ëµ·´»°%20(20).cpp) |
-| 1010 | Ò»Ôª¶àÏîÊ½Çóµ¼ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1010_Ò»Ôª¶àÏîÊ½Çóµ¼%20(25).cpp) |
-| 1011 | A+BºÍC (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1011_A+BºÍC%20(15).cpp) |
-| 1012 | Êı×Ö·ÖÀà (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1012_Êı×Ö·ÖÀà%20(20).cpp) |
-| 1013 | ÊıËØÊı (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1013_ÊıËØÊı%20(20).cpp) |
-| 1014 | ¸£¶ûÄ¦Ë¹µÄÔ¼»á (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1014_¸£¶ûÄ¦Ë¹µÄÔ¼»á%20(20).cpp) |
-| 1015 | µÂ²ÅÂÛ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1015_µÂ²ÅÂÛ%20(25).cpp) |
-| 1016 | ²¿·ÖA+B (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1016_²¿·ÖA+B%20(15).cpp) |
-| 1017 | A³ıÒÔB (20) | [`Java`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1017_A³ıÒÔB%20(20).java) |
-| 1018 | ´¸×Ó¼ôµ¶²¼ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1018_´¸×Ó¼ôµ¶²¼%20(20).cpp) |
-| 1019 | Êı×ÖºÚ¶´ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1019_Êı×ÖºÚ¶´%20(20).cpp) |
-| 1020 | ÔÂ±ı (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1020_ÔÂ±ı%20(25).cpp) |
-| 1021 | ¸öÎ»ÊıÍ³¼Æ (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1021_¸öÎ»ÊıÍ³¼Æ%20(15).cpp) |
-| 1022 | D½øÖÆµÄA+B (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1022_D½øÖÆµÄA+B%20(20).cpp) |
-| 1023 | ×é¸ö×îĞ¡Êı (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1023_×é¸ö×îĞ¡Êı%20(20).cpp) |
-| 1024 | ¿ÆÑ§¼ÆÊı·¨ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1024_¿ÆÑ§¼ÆÊı·¨%20(20).cpp) |
-| 1025 | ·´×ªÁ´±í (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1025_·´×ªÁ´±í%20(25).cpp) |
-| 1026 | ³ÌĞòÔËĞĞÊ±¼ä (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1026_³ÌĞòÔËĞĞÊ±¼ä%20(15).py) |
-| 1027 | ´òÓ¡É³Â© (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1027_´òÓ¡É³Â©%20(20).py) |
-| 1028 | ÈË¿ÚÆÕ²é (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1028_ÈË¿ÚÆÕ²é%20(20).cpp) |
-| 1029 | ¾É¼üÅÌ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1029_¾É¼üÅÌ%20(20).py) |
-| 1030 | ÍêÃÀÊıÁĞ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1030_ÍêÃÀÊıÁĞ%20(25).cpp) |
-| 1031 | ²éÑéÉí·İÖ¤ (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1031_²éÑéÉí·İÖ¤%20(15).cpp) |
-| 1032 | ÍÚ¾ò»ú¼¼ÊõÄÄ¼ÒÇ¿ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1032_ÍÚ¾ò»ú¼¼ÊõÄÄ¼ÒÇ¿%20(20).cpp) |
-| 1033 | ¾É¼üÅÌ´ò×Ö (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1033_¾É¼üÅÌ´ò×Ö%20(20).cpp) |
-| 1034 | ÓĞÀíÊıËÄÔòÔËËã (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1034_ÓĞÀíÊıËÄÔòÔËËã%20(20).cpp) |
-| 1035 | ²åÈëÓë¹é²¢ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1035_²åÈëÓë¹é²¢%20(25).cpp) |
-| 1036 | ¸ú°Â°ÍÂíÒ»Æğ±à³Ì(15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1036_¸ú°Â°ÍÂíÒ»Æğ±à³Ì(15).cpp) |
-| 1037 | ÔÚ»ô¸ñÎÖ´ÄÕÒÁãÇ®(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1037_ÔÚ»ô¸ñÎÖ´ÄÕÒÁãÇ®(20).cpp) |
-| 1038 | Í³¼ÆÍ¬³É¼¨Ñ§Éú(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1038_Í³¼ÆÍ¬³É¼¨Ñ§Éú(20).cpp) |
-| 1039 | µ½µ×Âò²»Âò(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1039_µ½µ×Âò²»Âò(20).cpp) |
-| 1040 | ÓĞ¼¸¸öPAT(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1040_ÓĞ¼¸¸öPAT(25).cpp) |
-| 1041 | ¿¼ÊÔ×ùÎ»ºÅ(15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1041_¿¼ÊÔ×ùÎ»ºÅ(15).cpp) |
-| 1042 | ×Ö·ûÍ³¼Æ(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1042_×Ö·ûÍ³¼Æ(20).cpp) |
-| 1043 | Êä³öPATest(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1043_Êä³öPATest(20).cpp) |
-| 1044 | »ğĞÇÊı×Ö(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1044_»ğĞÇÊı×Ö(20).cpp) |
-| 1045 | ¿ìËÙÅÅĞò(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1045_¿ìËÙÅÅĞò(25).cpp) |
-| 1046 | »®È­(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1046_»®È­(15).py) |
-| 1047 | ±à³ÌÍÅÌåÈü(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1047_±à³ÌÍÅÌåÈü(20).py) |
-| 1048 | Êı×Ö¼ÓÃÜ(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1048_Êı×Ö¼ÓÃÜ(20).py) |
-| 1049 | ÊıÁĞµÄÆ¬¶ÎºÍ(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1049_ÊıÁĞµÄÆ¬¶ÎºÍ(20).py) |
-| 1050 | ÂİĞı¾ØÕó(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1050_ÂİĞı¾ØÕó(25).cpp) |
-| 1051 | ¸´Êı³Ë·¨(15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1051_¸´Êı³Ë·¨(15).cpp) |
-| 1052 | Âô¸öÃÈ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1052_Âô¸öÃÈ%20(20).cpp) |
-| 1053 | ×¡·¿¿ÕÖÃÂÊ(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1053_×¡·¿¿ÕÖÃÂÊ(20).cpp) |
-| 1054 | ÇóÆ½¾ùÖµ(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1054_ÇóÆ½¾ùÖµ(20).cpp) |
-| 1055 | ¼¯ÌåÕÕ(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1055_¼¯ÌåÕÕ(25).cpp) |
-| 1056 | ×éºÏÊıµÄºÍ(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1056_×éºÏÊıµÄºÍ(15).py) |
-| 1057 | ÊıÁãÒ¼(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1057_ÊıÁãÒ¼(20).py) |
-| 1058 | Ñ¡ÔñÌâ(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1058_Ñ¡ÔñÌâ(20).py) |
-| 1059 | CÓïÑÔ¾ºÈü(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1059_CÓïÑÔ¾ºÈü(20).py) |
-| 1060 | °®¶¡¶ÙÊı(25) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1060_°®¶¡¶ÙÊı(25).py) |
-| 1061 | ÅĞ¶ÏÌâ(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1061_ÅĞ¶ÏÌâ(15).py) |
-| 1062 | ×î¼ò·ÖÊı(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1062_×î¼ò·ÖÊı(20).py) |
-| 1063 | ¼ÆËãÆ×°ë¾¶(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1063_¼ÆËãÆ×°ë¾¶(20).py) |
-| 1064 | ÅóÓÑÊı(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1064_ÅóÓÑÊı(20).py) |
-| 1065 | µ¥Éí¹·(25) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1065_µ¥Éí¹·(25).py) |
-| 1066 | Í¼Ïñ¹ıÂË(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1066_Í¼Ïñ¹ıÂË(15).py) |
-| 1067 | ÊÔÃÜÂë(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1067_ÊÔÃÜÂë(20).py) |
-| 1068 | ÍòÂÌ´ÔÖĞÒ»µãºì(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1068_ÍòÂÌ´ÔÖĞÒ»µãºì(20).cpp) |
-| 1069 | Î¢²©×ª·¢³é½±(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1069_Î¢²©×ª·¢³é½±(20).py) |
-| 1070 | ½áÉş(25) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1070_½áÉş(25).py) |
-| 1071 | Ğ¡¶ÄâùÇé(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1071_Ğ¡¶ÄâùÇé(15).py) |
-| 1072 | ¿ªÑ§¼ÄÓï(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1072_¿ªÑ§¼ÄÓï(20).py) |
-| 1073 | ¶àÑ¡Ìâ³£¼û¼Æ·Ö·¨(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1073_¶àÑ¡Ìâ³£¼û¼Æ·Ö·¨(20).py) |
-| 1074 | ÓîÖæÎŞµĞ¼Ó·¨Æ÷(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1074_ÓîÖæÎŞµĞ¼Ó·¨Æ÷(20).py) |
-| 1075 | Á´±íÔªËØ·ÖÀà(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1075_Á´±íÔªËØ·ÖÀà(25).cpp) |
-| 1076 | WifiÃÜÂë (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1076_WifiÃÜÂë%20(15).py) |
-| 1077 | »¥ÆÀ³É¼¨¼ÆËã (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1077_»¥ÆÀ³É¼¨¼ÆËã%20(20).py) |
-| 1078 | ×Ö·û´®Ñ¹ËõÓë½âÑ¹ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1078_×Ö·û´®Ñ¹ËõÓë½âÑ¹%20(20).py) |
-| 1079 | ÑÓ³ÙµÄ»ØÎÄÊı (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1079_ÑÓ³ÙµÄ»ØÎÄÊı%20(20).py) |
-| 1080 | MOOCÆÚÖÕ³É¼¨ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1080_MOOCÆÚÖÕ³É¼¨%20(25).cpp) |
-| 1081 | ¼ì²éÃÜÂë (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1081_¼ì²éÃÜÂë%20(15).cpp) |
-| 1082 | Éä»÷±ÈÈü (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1082_Éä»÷±ÈÈü%20(20).cpp) |
-| 1083 | ÊÇ·ñ´æÔÚÏàµÈµÄ²î (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1083_ÊÇ·ñ´æÔÚÏàµÈµÄ²î%20(20).cpp) |
-| 1084 | Íâ¹ÛÊıÁĞ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1084_Íâ¹ÛÊıÁĞ%20(20).cpp) |
-| 1085 | PATµ¥Î»ÅÅĞĞ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1085_PATµ¥Î»ÅÅĞĞ%20(25).cpp) |
-| 1086 | ¾Í²»¸æËßÄã (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1086_¾Í²»¸æËßÄã%20(15).cpp) |
-| 1087 | ÓĞ¶àÉÙ²»Í¬µÄÖµ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1087_ÓĞ¶àÉÙ²»Í¬µÄÖµ%20(20).cpp) |
-| 1088 | ÈıÈËĞĞ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1088_ÈıÈËĞĞ%20(20).cpp) |
-| 1089 | ÀÇÈËÉ±-¼òµ¥°æ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1089_ÀÇÈËÉ±-¼òµ¥°æ%20(20).cpp) |
-| 1090 | Î£ÏÕÆ·×°Ïä (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1090_Î£ÏÕÆ·×°Ïä%20(25).cpp) |
-| 1091 | N-×ÔÊØÊı (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1091_N-×ÔÊØÊı%20(15).cpp) |
-| 1092 | ×îºÃ³ÔµÄÔÂ±ı (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1092_×îºÃ³ÔµÄÔÂ±ı%20(20).cpp) |
-| 1093 | ×Ö·û´®A+B (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1093_×Ö·û´®A+B%20(20).cpp) |
-| 1094 | ¹È¸èµÄÕĞÆ¸ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1094_¹È¸èµÄÕĞÆ¸%20(20).cpp) |
-| 1095 | ½âÂëPAT×¼¿¼Ö¤ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20£¨ÖĞÎÄ£©/1095_½âÂëPAT×¼¿¼Ö¤%20(25).cpp) |
-# ÖĞ¹ú´óÑ§MOOC-³ÂÔ½¡¢ºÎÇÕÃú-Êı¾İ½á¹¹-Æğ²½ÄÜÁ¦×Ô²âÌâ
+| 1001 | å®³æ­»äººä¸å¿å‘½çš„(3n+1)çŒœæƒ³ (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1001_å®³æ­»äººä¸å¿å‘½çš„(3n+1)çŒœæƒ³%20(15).cpp) |
+| 1002 | å†™å‡ºè¿™ä¸ªæ•° (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1002_å†™å‡ºè¿™ä¸ªæ•°%20(20).cpp) |
+| 1003 | æˆ‘è¦é€šè¿‡ï¼(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1003_æˆ‘è¦é€šè¿‡ï¼(20).cpp) |
+| 1004 | æˆç»©æ’å (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1004_æˆç»©æ’å%20(20).cpp) |
+| 1005 | ç»§ç»­(3n+1)çŒœæƒ³ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1005_ç»§ç»­(3n+1)çŒœæƒ³%20(25).cpp) |
+| 1006 | æ¢ä¸ªæ ¼å¼è¾“å‡ºæ•´æ•° (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1006_æ¢ä¸ªæ ¼å¼è¾“å‡ºæ•´æ•°%20(15).cpp) |
+| 1007 | ç´ æ•°å¯¹çŒœæƒ³ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1007_ç´ æ•°å¯¹çŒœæƒ³%20(20).cpp) |
+| 1008 | æ•°ç»„å…ƒç´ å¾ªç¯å³ç§»é—®é¢˜ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1008_æ•°ç»„å…ƒç´ å¾ªç¯å³ç§»é—®é¢˜%20(20).cpp) |
+| 1009 | è¯´åè¯ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1009_è¯´åè¯%20(20).cpp) |
+| 1010 | ä¸€å…ƒå¤šé¡¹å¼æ±‚å¯¼ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1010_ä¸€å…ƒå¤šé¡¹å¼æ±‚å¯¼%20(25).cpp) |
+| 1011 | A+Bå’ŒC (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1011_A+Bå’ŒC%20(15).cpp) |
+| 1012 | æ•°å­—åˆ†ç±» (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1012_æ•°å­—åˆ†ç±»%20(20).cpp) |
+| 1013 | æ•°ç´ æ•° (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1013_æ•°ç´ æ•°%20(20).cpp) |
+| 1014 | ç¦å°”æ‘©æ–¯çš„çº¦ä¼š (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1014_ç¦å°”æ‘©æ–¯çš„çº¦ä¼š%20(20).cpp) |
+| 1015 | å¾·æ‰è®º (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1015_å¾·æ‰è®º%20(25).cpp) |
+| 1016 | éƒ¨åˆ†A+B (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1016_éƒ¨åˆ†A+B%20(15).cpp) |
+| 1017 | Aé™¤ä»¥B (20) | [`Java`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1017_Aé™¤ä»¥B%20(20).java) |
+| 1018 | é”¤å­å‰ªåˆ€å¸ƒ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1018_é”¤å­å‰ªåˆ€å¸ƒ%20(20).cpp) |
+| 1019 | æ•°å­—é»‘æ´ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1019_æ•°å­—é»‘æ´%20(20).cpp) |
+| 1020 | æœˆé¥¼ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1020_æœˆé¥¼%20(25).cpp) |
+| 1021 | ä¸ªä½æ•°ç»Ÿè®¡ (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1021_ä¸ªä½æ•°ç»Ÿè®¡%20(15).cpp) |
+| 1022 | Dè¿›åˆ¶çš„A+B (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1022_Dè¿›åˆ¶çš„A+B%20(20).cpp) |
+| 1023 | ç»„ä¸ªæœ€å°æ•° (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1023_ç»„ä¸ªæœ€å°æ•°%20(20).cpp) |
+| 1024 | ç§‘å­¦è®¡æ•°æ³• (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1024_ç§‘å­¦è®¡æ•°æ³•%20(20).cpp) |
+| 1025 | åè½¬é“¾è¡¨ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1025_åè½¬é“¾è¡¨%20(25).cpp) |
+| 1026 | ç¨‹åºè¿è¡Œæ—¶é—´ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1026_ç¨‹åºè¿è¡Œæ—¶é—´%20(15).py) |
+| 1027 | æ‰“å°æ²™æ¼ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1027_æ‰“å°æ²™æ¼%20(20).py) |
+| 1028 | äººå£æ™®æŸ¥ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1028_äººå£æ™®æŸ¥%20(20).cpp) |
+| 1029 | æ—§é”®ç›˜ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1029_æ—§é”®ç›˜%20(20).py) |
+| 1030 | å®Œç¾æ•°åˆ— (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1030_å®Œç¾æ•°åˆ—%20(25).cpp) |
+| 1031 | æŸ¥éªŒèº«ä»½è¯ (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1031_æŸ¥éªŒèº«ä»½è¯%20(15).cpp) |
+| 1032 | æŒ–æ˜æœºæŠ€æœ¯å“ªå®¶å¼º (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1032_æŒ–æ˜æœºæŠ€æœ¯å“ªå®¶å¼º%20(20).cpp) |
+| 1033 | æ—§é”®ç›˜æ‰“å­— (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1033_æ—§é”®ç›˜æ‰“å­—%20(20).cpp) |
+| 1034 | æœ‰ç†æ•°å››åˆ™è¿ç®— (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1034_æœ‰ç†æ•°å››åˆ™è¿ç®—%20(20).cpp) |
+| 1035 | æ’å…¥ä¸å½’å¹¶ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1035_æ’å…¥ä¸å½’å¹¶%20(25).cpp) |
+| 1036 | è·Ÿå¥¥å·´é©¬ä¸€èµ·ç¼–ç¨‹(15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1036_è·Ÿå¥¥å·´é©¬ä¸€èµ·ç¼–ç¨‹(15).cpp) |
+| 1037 | åœ¨éœæ ¼æ²ƒèŒ¨æ‰¾é›¶é’±(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1037_åœ¨éœæ ¼æ²ƒèŒ¨æ‰¾é›¶é’±(20).cpp) |
+| 1038 | ç»Ÿè®¡åŒæˆç»©å­¦ç”Ÿ(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1038_ç»Ÿè®¡åŒæˆç»©å­¦ç”Ÿ(20).cpp) |
+| 1039 | åˆ°åº•ä¹°ä¸ä¹°(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1039_åˆ°åº•ä¹°ä¸ä¹°(20).cpp) |
+| 1040 | æœ‰å‡ ä¸ªPAT(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1040_æœ‰å‡ ä¸ªPAT(25).cpp) |
+| 1041 | è€ƒè¯•åº§ä½å·(15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1041_è€ƒè¯•åº§ä½å·(15).cpp) |
+| 1042 | å­—ç¬¦ç»Ÿè®¡(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1042_å­—ç¬¦ç»Ÿè®¡(20).cpp) |
+| 1043 | è¾“å‡ºPATest(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1043_è¾“å‡ºPATest(20).cpp) |
+| 1044 | ç«æ˜Ÿæ•°å­—(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1044_ç«æ˜Ÿæ•°å­—(20).cpp) |
+| 1045 | å¿«é€Ÿæ’åº(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1045_å¿«é€Ÿæ’åº(25).cpp) |
+| 1046 | åˆ’æ‹³(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1046_åˆ’æ‹³(15).py) |
+| 1047 | ç¼–ç¨‹å›¢ä½“èµ›(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1047_ç¼–ç¨‹å›¢ä½“èµ›(20).py) |
+| 1048 | æ•°å­—åŠ å¯†(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1048_æ•°å­—åŠ å¯†(20).py) |
+| 1049 | æ•°åˆ—çš„ç‰‡æ®µå’Œ(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1049_æ•°åˆ—çš„ç‰‡æ®µå’Œ(20).py) |
+| 1050 | èºæ—‹çŸ©é˜µ(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1050_èºæ—‹çŸ©é˜µ(25).cpp) |
+| 1051 | å¤æ•°ä¹˜æ³•(15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1051_å¤æ•°ä¹˜æ³•(15).cpp) |
+| 1052 | å–ä¸ªèŒ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1052_å–ä¸ªèŒ%20(20).cpp) |
+| 1053 | ä½æˆ¿ç©ºç½®ç‡(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1053_ä½æˆ¿ç©ºç½®ç‡(20).cpp) |
+| 1054 | æ±‚å¹³å‡å€¼(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1054_æ±‚å¹³å‡å€¼(20).cpp) |
+| 1055 | é›†ä½“ç…§(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1055_é›†ä½“ç…§(25).cpp) |
+| 1056 | ç»„åˆæ•°çš„å’Œ(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1056_ç»„åˆæ•°çš„å’Œ(15).py) |
+| 1057 | æ•°é›¶å£¹(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1057_æ•°é›¶å£¹(20).py) |
+| 1058 | é€‰æ‹©é¢˜(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1058_é€‰æ‹©é¢˜(20).py) |
+| 1059 | Cè¯­è¨€ç«èµ›(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1059_Cè¯­è¨€ç«èµ›(20).py) |
+| 1060 | çˆ±ä¸é¡¿æ•°(25) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1060_çˆ±ä¸é¡¿æ•°(25).py) |
+| 1061 | åˆ¤æ–­é¢˜(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1061_åˆ¤æ–­é¢˜(15).py) |
+| 1062 | æœ€ç®€åˆ†æ•°(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1062_æœ€ç®€åˆ†æ•°(20).py) |
+| 1063 | è®¡ç®—è°±åŠå¾„(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1063_è®¡ç®—è°±åŠå¾„(20).py) |
+| 1064 | æœ‹å‹æ•°(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1064_æœ‹å‹æ•°(20).py) |
+| 1065 | å•èº«ç‹—(25) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1065_å•èº«ç‹—(25).py) |
+| 1066 | å›¾åƒè¿‡æ»¤(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1066_å›¾åƒè¿‡æ»¤(15).py) |
+| 1067 | è¯•å¯†ç (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1067_è¯•å¯†ç (20).py) |
+| 1068 | ä¸‡ç»¿ä¸›ä¸­ä¸€ç‚¹çº¢(20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1068_ä¸‡ç»¿ä¸›ä¸­ä¸€ç‚¹çº¢(20).cpp) |
+| 1069 | å¾®åšè½¬å‘æŠ½å¥–(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1069_å¾®åšè½¬å‘æŠ½å¥–(20).py) |
+| 1070 | ç»“ç»³(25) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1070_ç»“ç»³(25).py) |
+| 1071 | å°èµŒæ€¡æƒ…(15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1071_å°èµŒæ€¡æƒ…(15).py) |
+| 1072 | å¼€å­¦å¯„è¯­(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1072_å¼€å­¦å¯„è¯­(20).py) |
+| 1073 | å¤šé€‰é¢˜å¸¸è§è®¡åˆ†æ³•(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1073_å¤šé€‰é¢˜å¸¸è§è®¡åˆ†æ³•(20).py) |
+| 1074 | å®‡å®™æ— æ•ŒåŠ æ³•å™¨(20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1074_å®‡å®™æ— æ•ŒåŠ æ³•å™¨(20).py) |
+| 1075 | é“¾è¡¨å…ƒç´ åˆ†ç±»(25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1075_é“¾è¡¨å…ƒç´ åˆ†ç±»(25).cpp) |
+| 1076 | Wifiå¯†ç  (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1076_Wifiå¯†ç %20(15).py) |
+| 1077 | äº’è¯„æˆç»©è®¡ç®— (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1077_äº’è¯„æˆç»©è®¡ç®—%20(20).py) |
+| 1078 | å­—ç¬¦ä¸²å‹ç¼©ä¸è§£å‹ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1078_å­—ç¬¦ä¸²å‹ç¼©ä¸è§£å‹%20(20).py) |
+| 1079 | å»¶è¿Ÿçš„å›æ–‡æ•° (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1079_å»¶è¿Ÿçš„å›æ–‡æ•°%20(20).py) |
+| 1080 | MOOCæœŸç»ˆæˆç»© (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1080_MOOCæœŸç»ˆæˆç»©%20(25).cpp) |
+| 1081 | æ£€æŸ¥å¯†ç  (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1081_æ£€æŸ¥å¯†ç %20(15).cpp) |
+| 1082 | å°„å‡»æ¯”èµ› (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1082_å°„å‡»æ¯”èµ›%20(20).cpp) |
+| 1083 | æ˜¯å¦å­˜åœ¨ç›¸ç­‰çš„å·® (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1083_æ˜¯å¦å­˜åœ¨ç›¸ç­‰çš„å·®%20(20).cpp) |
+| 1084 | å¤–è§‚æ•°åˆ— (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1084_å¤–è§‚æ•°åˆ—%20(20).cpp) |
+| 1085 | PATå•ä½æ’è¡Œ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1085_PATå•ä½æ’è¡Œ%20(25).cpp) |
+| 1086 | å°±ä¸å‘Šè¯‰ä½  (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1086_å°±ä¸å‘Šè¯‰ä½ %20(15).cpp) |
+| 1087 | æœ‰å¤šå°‘ä¸åŒçš„å€¼ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1087_æœ‰å¤šå°‘ä¸åŒçš„å€¼%20(20).cpp) |
+| 1088 | ä¸‰äººè¡Œ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1088_ä¸‰äººè¡Œ%20(20).cpp) |
+| 1089 | ç‹¼äººæ€-ç®€å•ç‰ˆ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1089_ç‹¼äººæ€-ç®€å•ç‰ˆ%20(20).cpp) |
+| 1090 | å±é™©å“è£…ç®± (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1090_å±é™©å“è£…ç®±%20(25).cpp) |
+| 1091 | N-è‡ªå®ˆæ•° (15) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1091_N-è‡ªå®ˆæ•°%20(15).cpp) |
+| 1092 | æœ€å¥½åƒçš„æœˆé¥¼ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1092_æœ€å¥½åƒçš„æœˆé¥¼%20(20).cpp) |
+| 1093 | å­—ç¬¦ä¸²A+B (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1093_å­—ç¬¦ä¸²A+B%20(20).cpp) |
+| 1094 | è°·æ­Œçš„æ‹›è˜ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1094_è°·æ­Œçš„æ‹›è˜%20(20).cpp) |
+| 1095 | è§£ç PATå‡†è€ƒè¯ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/PAT%20(Basic%20Level)%20Practise%20ï¼ˆä¸­æ–‡ï¼‰/1095_è§£ç PATå‡†è€ƒè¯%20(25).cpp) |
+# ä¸­å›½å¤§å­¦MOOC-é™ˆè¶Šã€ä½•é’¦é“­-æ•°æ®ç»“æ„-èµ·æ­¥èƒ½åŠ›è‡ªæµ‹é¢˜
 | ID | Title | Code |
 | :--: | :--: | :--: |
-| ×Ô²â-1 | ´òÓ¡É³Â© (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ÖĞ¹ú´óÑ§MOOC-³ÂÔ½¡¢ºÎÇÕÃú-Êı¾İ½á¹¹-Æğ²½ÄÜÁ¦×Ô²âÌâ/×Ô²â-1_´òÓ¡É³Â©%20(20).py) |
-| ×Ô²â-2 | ËØÊı¶Ô²ÂÏë (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ÖĞ¹ú´óÑ§MOOC-³ÂÔ½¡¢ºÎÇÕÃú-Êı¾İ½á¹¹-Æğ²½ÄÜÁ¦×Ô²âÌâ/×Ô²â-2_ËØÊı¶Ô²ÂÏë%20(20).py) |
-| ×Ô²â-3 | Êı×éÔªËØÑ­»·ÓÒÒÆÎÊÌâ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ÖĞ¹ú´óÑ§MOOC-³ÂÔ½¡¢ºÎÇÕÃú-Êı¾İ½á¹¹-Æğ²½ÄÜÁ¦×Ô²âÌâ/×Ô²â-3_Êı×éÔªËØÑ­»·ÓÒÒÆÎÊÌâ%20(20).py) |
-| ×Ô²â-4 | Have Fun with Numbers (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ÖĞ¹ú´óÑ§MOOC-³ÂÔ½¡¢ºÎÇÕÃú-Êı¾İ½á¹¹-Æğ²½ÄÜÁ¦×Ô²âÌâ/×Ô²â-4_Have%20Fun%20with%20Numbers%20(20).py) |
-| ×Ô²â-5 | Shuffling Machine (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ÖĞ¹ú´óÑ§MOOC-³ÂÔ½¡¢ºÎÇÕÃú-Êı¾İ½á¹¹-Æğ²½ÄÜÁ¦×Ô²âÌâ/×Ô²â-5_Shuffling%20Machine%20(20).py) |
-# »ù´¡±à³ÌÌâÄ¿¼¯
+| è‡ªæµ‹-1 | æ‰“å°æ²™æ¼ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ä¸­å›½å¤§å­¦MOOC-é™ˆè¶Šã€ä½•é’¦é“­-æ•°æ®ç»“æ„-èµ·æ­¥èƒ½åŠ›è‡ªæµ‹é¢˜/è‡ªæµ‹-1_æ‰“å°æ²™æ¼%20(20).py) |
+| è‡ªæµ‹-2 | ç´ æ•°å¯¹çŒœæƒ³ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ä¸­å›½å¤§å­¦MOOC-é™ˆè¶Šã€ä½•é’¦é“­-æ•°æ®ç»“æ„-èµ·æ­¥èƒ½åŠ›è‡ªæµ‹é¢˜/è‡ªæµ‹-2_ç´ æ•°å¯¹çŒœæƒ³%20(20).py) |
+| è‡ªæµ‹-3 | æ•°ç»„å…ƒç´ å¾ªç¯å³ç§»é—®é¢˜ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ä¸­å›½å¤§å­¦MOOC-é™ˆè¶Šã€ä½•é’¦é“­-æ•°æ®ç»“æ„-èµ·æ­¥èƒ½åŠ›è‡ªæµ‹é¢˜/è‡ªæµ‹-3_æ•°ç»„å…ƒç´ å¾ªç¯å³ç§»é—®é¢˜%20(20).py) |
+| è‡ªæµ‹-4 | Have Fun with Numbers (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ä¸­å›½å¤§å­¦MOOC-é™ˆè¶Šã€ä½•é’¦é“­-æ•°æ®ç»“æ„-èµ·æ­¥èƒ½åŠ›è‡ªæµ‹é¢˜/è‡ªæµ‹-4_Have%20Fun%20with%20Numbers%20(20).py) |
+| è‡ªæµ‹-5 | Shuffling Machine (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/ä¸­å›½å¤§å­¦MOOC-é™ˆè¶Šã€ä½•é’¦é“­-æ•°æ®ç»“æ„-èµ·æ­¥èƒ½åŠ›è‡ªæµ‹é¢˜/è‡ªæµ‹-5_Shuffling%20Machine%20(20).py) |
+# åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†
 | ID | Title | Code |
 | :--: | :--: | :--: |
-| 6-1 | ¼òµ¥Êä³öÕûÊı (10) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-1_¼òµ¥Êä³öÕûÊı%20(10).c) |
-| 6-2 | ¶àÏîÊ½ÇóÖµ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-2_¶àÏîÊ½ÇóÖµ%20(20).c) |
-| 6-3 | ¼òµ¥ÇóºÍ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-3_¼òµ¥ÇóºÍ%20(10).c) |
-| 6-4 | Çó×Ô¶¨ÀàĞÍÔªËØµÄÆ½¾ù (10) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-4_Çó×Ô¶¨ÀàĞÍÔªËØµÄÆ½¾ù%20(10).c) |
-| 6-5 | Çó×Ô¶¨ÀàĞÍÔªËØµÄ×î´óÖµ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-5_Çó×Ô¶¨ÀàĞÍÔªËØµÄ×î´óÖµ%20(10).c) |
-| 6-6 | Çóµ¥Á´±í½áµãµÄ½×³ËºÍ (15) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-6_Çóµ¥Á´±í½áµãµÄ½×³ËºÍ%20(15).c) |
-| 6-7 | Í³¼ÆÄ³ÀàÍêÈ«Æ½·½Êı (20) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-7_Í³¼ÆÄ³ÀàÍêÈ«Æ½·½Êı%20(20).c) |
-| 6-8 | ¼òµ¥½×³Ë¼ÆËã (10) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-8_¼òµ¥½×³Ë¼ÆËã%20(10).c) |
-| 6-9 | Í³¼Æ¸öÎ»Êı×Ö (15) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-9_Í³¼Æ¸öÎ»Êı×Ö%20(15).c) |
-| 6-10 | ½×³Ë¼ÆËãÉı¼¶°æ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-10_½×³Ë¼ÆËãÉı¼¶°æ%20(20).c) |
-| 6-11 | Çó×Ô¶¨ÀàĞÍÔªËØĞòÁĞµÄÖĞÎ»Êı (25) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-11_Çó×Ô¶¨ÀàĞÍÔªËØĞòÁĞµÄÖĞÎ»Êı%20(25).c) |
-| 6-12 | ÅĞ¶ÏÆæÅ¼ĞÔ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-12_ÅĞ¶ÏÆæÅ¼ĞÔ%20(10).c) |
-| 6-13 | ÕÛ°ë²éÕÒ (15) | [`C`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/6-13_ÕÛ°ë²éÕÒ%20(15).c) |
-| 7-1 | ÀåÃ×»»ËãÓ¢³ßÓ¢´ç (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-1_ÀåÃ×»»ËãÓ¢³ßÓ¢´ç%20(15).py) |
-| 7-2 | È»ºóÊÇ¼¸µã (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-2_È»ºóÊÇ¼¸µã%20(15).py) |
-| 7-3 | ÄæĞòµÄÈıÎ»Êı (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-3_ÄæĞòµÄÈıÎ»Êı%20(10).py) |
-| 7-4 | BCD½âÃÜ (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-4_BCD½âÃÜ%20(10).py) |
-| 7-5 | ±í¸ñÊä³ö (5) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-5_±í¸ñÊä³ö%20(5).py) |
-| 7-6 | »ìºÏÀàĞÍÊı¾İ¸ñÊ½»¯ÊäÈë (5) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-6_»ìºÏÀàĞÍÊı¾İ¸ñÊ½»¯ÊäÈë%20(5).py) |
-| 7-7 | 12-24Ğ¡Ê±ÖÆ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-7_12-24Ğ¡Ê±ÖÆ%20(15).py) |
-| 7-8 | ³¬ËÙÅĞ¶Ï (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-8_³¬ËÙÅĞ¶Ï%20(10).py) |
-| 7-9 | ÓÃÌìÆ½ÕÒĞ¡Çò (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-9_ÓÃÌìÆ½ÕÒĞ¡Çò%20(10).py) |
-| 7-10 | ¼ÆËã¹¤×Ê (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-10_¼ÆËã¹¤×Ê%20(15).py) |
-| 7-11 | ·Ö¶Î¼ÆËã¾ÓÃñË®·Ñ (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-11_·Ö¶Î¼ÆËã¾ÓÃñË®·Ñ%20(10).py) |
-| 7-12 | Á½¸öÊıµÄ¼òµ¥¼ÆËãÆ÷ (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-12_Á½¸öÊıµÄ¼òµ¥¼ÆËãÆ÷%20(10).py) |
-| 7-13 | ÈÕKÀ¯ÖòÍ¼ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-13_ÈÕKÀ¯ÖòÍ¼%20(15).py) |
-| 7-14 | ÇóÕûÊı¶ÎºÍ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-14_ÇóÕûÊı¶ÎºÍ%20(15).py) |
-| 7-15 | ¼ÆËãÔ²ÖÜÂÊ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-15_¼ÆËãÔ²ÖÜÂÊ%20(15).py) |
-| 7-16 | Çó·ûºÏ¸ø¶¨Ìõ¼şµÄÕûÊı¼¯ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-16_Çó·ûºÏ¸ø¶¨Ìõ¼şµÄÕûÊı¼¯%20(15).py) |
-| 7-17 | ÅÀ¶¯µÄÈä³æ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-17_ÅÀ¶¯µÄÈä³æ%20(15).py) |
-| 7-18 | ¶ş·Ö·¨Çó¶àÏîÊ½µ¥¸ù (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-18_¶ş·Ö·¨Çó¶àÏîÊ½µ¥¸ù%20(20).py) |
-| 7-19 | Ö§Æ±Ãæ¶î (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-19_Ö§Æ±Ãæ¶î%20(15).py) |
-| 7-20 | ´òÓ¡¾Å¾Å¿Ú¾÷±í (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-20_´òÓ¡¾Å¾Å¿Ú¾÷±í%20(15).py) |
-| 7-21 | ÇóÌØÊâ·½³ÌµÄÕıÕûÊı½â (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-21_ÇóÌØÊâ·½³ÌµÄÕıÕûÊı½â%20(15).py) |
-| 7-22 | ¹êÍÃÈüÅÜ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-22_¹êÍÃÈüÅÜ%20(20).py) |
-| 7-23 | ±ÒÖµ×ª»» (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-23_±ÒÖµ×ª»»%20(20).py) |
-| 7-24 | Ô¼·Ö×î¼ò·ÖÊ½ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-24_Ô¼·Ö×î¼ò·ÖÊ½%20(15).py) |
-| 7-25 | ÄîÊı×Ö (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-25_ÄîÊı×Ö%20(15).py) |
-| 7-26 | µ¥´Ê³¤¶È (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-26_µ¥´Ê³¤¶È%20(15).py) |
-| 7-27 | Ã°Åİ·¨ÅÅĞò (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-27_Ã°Åİ·¨ÅÅĞò%20(20).py) |
-| 7-28 | ºï×ÓÑ¡´óÍõ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-28_ºï×ÓÑ¡´óÍõ%20(20).py) |
-| 7-29 | É¾³ı×Ö·û´®ÖĞµÄ×Ó´® (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-29_É¾³ı×Ö·û´®ÖĞµÄ×Ó´®%20(20).py) |
-| 7-30 | ×Ö·û´®µÄÃ°ÅİÅÅĞò (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-30_×Ö·û´®µÄÃ°ÅİÅÅĞò%20(20).py) |
-| 7-31 | ×Ö·û´®Ñ­»·×óÒÆ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-31_×Ö·û´®Ñ­»·×óÒÆ%20(20).py) |
-| 7-32 | Ëµ·´»°-¼ÓÇ¿°æ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-32_Ëµ·´»°-¼ÓÇ¿°æ%20(20).py) |
-| 7-33 | ÓĞÀíÊı¼Ó·¨ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-33_ÓĞÀíÊı¼Ó·¨%20(15).py) |
-| 7-34 | Í¨Ñ¶Â¼µÄÂ¼ÈëÓëÏÔÊ¾ (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-34_Í¨Ñ¶Â¼µÄÂ¼ÈëÓëÏÔÊ¾%20(10).py) |
-| 7-35 | ÓĞÀíÊı¾ùÖµ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-35_ÓĞÀíÊı¾ùÖµ%20(20).py) |
-| 7-36 | ¸´ÊıËÄÔòÔËËã (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-36_¸´ÊıËÄÔòÔËËã%20(15).py) |
-| 7-37 | ÕûÊı·Ö½âÎªÈô¸ÉÏîÖ®ºÍ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-37_ÕûÊı·Ö½âÎªÈô¸ÉÏîÖ®ºÍ%20(20).py) |
-| 7-38 | ÊıÁĞÇóºÍ-¼ÓÇ¿°æ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/»ù´¡±à³ÌÌâÄ¿¼¯/7-38_ÊıÁĞÇóºÍ-¼ÓÇ¿°æ%20(20).py) |
-# Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©
+| 6-1 | ç®€å•è¾“å‡ºæ•´æ•° (10) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-1_ç®€å•è¾“å‡ºæ•´æ•°%20(10).c) |
+| 6-2 | å¤šé¡¹å¼æ±‚å€¼ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-2_å¤šé¡¹å¼æ±‚å€¼%20(20).c) |
+| 6-3 | ç®€å•æ±‚å’Œ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-3_ç®€å•æ±‚å’Œ%20(10).c) |
+| 6-4 | æ±‚è‡ªå®šç±»å‹å…ƒç´ çš„å¹³å‡ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-4_æ±‚è‡ªå®šç±»å‹å…ƒç´ çš„å¹³å‡%20(10).c) |
+| 6-5 | æ±‚è‡ªå®šç±»å‹å…ƒç´ çš„æœ€å¤§å€¼ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-5_æ±‚è‡ªå®šç±»å‹å…ƒç´ çš„æœ€å¤§å€¼%20(10).c) |
+| 6-6 | æ±‚å•é“¾è¡¨ç»“ç‚¹çš„é˜¶ä¹˜å’Œ (15) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-6_æ±‚å•é“¾è¡¨ç»“ç‚¹çš„é˜¶ä¹˜å’Œ%20(15).c) |
+| 6-7 | ç»Ÿè®¡æŸç±»å®Œå…¨å¹³æ–¹æ•° (20) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-7_ç»Ÿè®¡æŸç±»å®Œå…¨å¹³æ–¹æ•°%20(20).c) |
+| 6-8 | ç®€å•é˜¶ä¹˜è®¡ç®— (10) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-8_ç®€å•é˜¶ä¹˜è®¡ç®—%20(10).c) |
+| 6-9 | ç»Ÿè®¡ä¸ªä½æ•°å­— (15) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-9_ç»Ÿè®¡ä¸ªä½æ•°å­—%20(15).c) |
+| 6-10 | é˜¶ä¹˜è®¡ç®—å‡çº§ç‰ˆ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-10_é˜¶ä¹˜è®¡ç®—å‡çº§ç‰ˆ%20(20).c) |
+| 6-11 | æ±‚è‡ªå®šç±»å‹å…ƒç´ åºåˆ—çš„ä¸­ä½æ•° (25) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-11_æ±‚è‡ªå®šç±»å‹å…ƒç´ åºåˆ—çš„ä¸­ä½æ•°%20(25).c) |
+| 6-12 | åˆ¤æ–­å¥‡å¶æ€§ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-12_åˆ¤æ–­å¥‡å¶æ€§%20(10).c) |
+| 6-13 | æŠ˜åŠæŸ¥æ‰¾ (15) | [`C`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/6-13_æŠ˜åŠæŸ¥æ‰¾%20(15).c) |
+| 7-1 | å˜ç±³æ¢ç®—è‹±å°ºè‹±å¯¸ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-1_å˜ç±³æ¢ç®—è‹±å°ºè‹±å¯¸%20(15).py) |
+| 7-2 | ç„¶åæ˜¯å‡ ç‚¹ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-2_ç„¶åæ˜¯å‡ ç‚¹%20(15).py) |
+| 7-3 | é€†åºçš„ä¸‰ä½æ•° (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-3_é€†åºçš„ä¸‰ä½æ•°%20(10).py) |
+| 7-4 | BCDè§£å¯† (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-4_BCDè§£å¯†%20(10).py) |
+| 7-5 | è¡¨æ ¼è¾“å‡º (5) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-5_è¡¨æ ¼è¾“å‡º%20(5).py) |
+| 7-6 | æ··åˆç±»å‹æ•°æ®æ ¼å¼åŒ–è¾“å…¥ (5) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-6_æ··åˆç±»å‹æ•°æ®æ ¼å¼åŒ–è¾“å…¥%20(5).py) |
+| 7-7 | 12-24å°æ—¶åˆ¶ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-7_12-24å°æ—¶åˆ¶%20(15).py) |
+| 7-8 | è¶…é€Ÿåˆ¤æ–­ (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-8_è¶…é€Ÿåˆ¤æ–­%20(10).py) |
+| 7-9 | ç”¨å¤©å¹³æ‰¾å°çƒ (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-9_ç”¨å¤©å¹³æ‰¾å°çƒ%20(10).py) |
+| 7-10 | è®¡ç®—å·¥èµ„ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-10_è®¡ç®—å·¥èµ„%20(15).py) |
+| 7-11 | åˆ†æ®µè®¡ç®—å±…æ°‘æ°´è´¹ (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-11_åˆ†æ®µè®¡ç®—å±…æ°‘æ°´è´¹%20(10).py) |
+| 7-12 | ä¸¤ä¸ªæ•°çš„ç®€å•è®¡ç®—å™¨ (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-12_ä¸¤ä¸ªæ•°çš„ç®€å•è®¡ç®—å™¨%20(10).py) |
+| 7-13 | æ—¥Kèœ¡çƒ›å›¾ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-13_æ—¥Kèœ¡çƒ›å›¾%20(15).py) |
+| 7-14 | æ±‚æ•´æ•°æ®µå’Œ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-14_æ±‚æ•´æ•°æ®µå’Œ%20(15).py) |
+| 7-15 | è®¡ç®—åœ†å‘¨ç‡ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-15_è®¡ç®—åœ†å‘¨ç‡%20(15).py) |
+| 7-16 | æ±‚ç¬¦åˆç»™å®šæ¡ä»¶çš„æ•´æ•°é›† (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-16_æ±‚ç¬¦åˆç»™å®šæ¡ä»¶çš„æ•´æ•°é›†%20(15).py) |
+| 7-17 | çˆ¬åŠ¨çš„è •è™« (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-17_çˆ¬åŠ¨çš„è •è™«%20(15).py) |
+| 7-18 | äºŒåˆ†æ³•æ±‚å¤šé¡¹å¼å•æ ¹ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-18_äºŒåˆ†æ³•æ±‚å¤šé¡¹å¼å•æ ¹%20(20).py) |
+| 7-19 | æ”¯ç¥¨é¢é¢ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-19_æ”¯ç¥¨é¢é¢%20(15).py) |
+| 7-20 | æ‰“å°ä¹ä¹å£è¯€è¡¨ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-20_æ‰“å°ä¹ä¹å£è¯€è¡¨%20(15).py) |
+| 7-21 | æ±‚ç‰¹æ®Šæ–¹ç¨‹çš„æ­£æ•´æ•°è§£ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-21_æ±‚ç‰¹æ®Šæ–¹ç¨‹çš„æ­£æ•´æ•°è§£%20(15).py) |
+| 7-22 | é¾Ÿå…”èµ›è·‘ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-22_é¾Ÿå…”èµ›è·‘%20(20).py) |
+| 7-23 | å¸å€¼è½¬æ¢ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-23_å¸å€¼è½¬æ¢%20(20).py) |
+| 7-24 | çº¦åˆ†æœ€ç®€åˆ†å¼ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-24_çº¦åˆ†æœ€ç®€åˆ†å¼%20(15).py) |
+| 7-25 | å¿µæ•°å­— (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-25_å¿µæ•°å­—%20(15).py) |
+| 7-26 | å•è¯é•¿åº¦ (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-26_å•è¯é•¿åº¦%20(15).py) |
+| 7-27 | å†’æ³¡æ³•æ’åº (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-27_å†’æ³¡æ³•æ’åº%20(20).py) |
+| 7-28 | çŒ´å­é€‰å¤§ç‹ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-28_çŒ´å­é€‰å¤§ç‹%20(20).py) |
+| 7-29 | åˆ é™¤å­—ç¬¦ä¸²ä¸­çš„å­ä¸² (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-29_åˆ é™¤å­—ç¬¦ä¸²ä¸­çš„å­ä¸²%20(20).py) |
+| 7-30 | å­—ç¬¦ä¸²çš„å†’æ³¡æ’åº (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-30_å­—ç¬¦ä¸²çš„å†’æ³¡æ’åº%20(20).py) |
+| 7-31 | å­—ç¬¦ä¸²å¾ªç¯å·¦ç§» (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-31_å­—ç¬¦ä¸²å¾ªç¯å·¦ç§»%20(20).py) |
+| 7-32 | è¯´åè¯-åŠ å¼ºç‰ˆ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-32_è¯´åè¯-åŠ å¼ºç‰ˆ%20(20).py) |
+| 7-33 | æœ‰ç†æ•°åŠ æ³• (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-33_æœ‰ç†æ•°åŠ æ³•%20(15).py) |
+| 7-34 | é€šè®¯å½•çš„å½•å…¥ä¸æ˜¾ç¤º (10) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-34_é€šè®¯å½•çš„å½•å…¥ä¸æ˜¾ç¤º%20(10).py) |
+| 7-35 | æœ‰ç†æ•°å‡å€¼ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-35_æœ‰ç†æ•°å‡å€¼%20(20).py) |
+| 7-36 | å¤æ•°å››åˆ™è¿ç®— (15) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-36_å¤æ•°å››åˆ™è¿ç®—%20(15).py) |
+| 7-37 | æ•´æ•°åˆ†è§£ä¸ºè‹¥å¹²é¡¹ä¹‹å’Œ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-37_æ•´æ•°åˆ†è§£ä¸ºè‹¥å¹²é¡¹ä¹‹å’Œ%20(20).py) |
+| 7-38 | æ•°åˆ—æ±‚å’Œ-åŠ å¼ºç‰ˆ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/åŸºç¡€ç¼–ç¨‹é¢˜ç›®é›†/7-38_æ•°åˆ—æ±‚å’Œ-åŠ å¼ºç‰ˆ%20(20).py) |
+# æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰
 | ID | Title | Code |
 | :--: | :--: | :--: |
-| 6-1 | µ¥Á´±íÄæ×ª (20) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-1_µ¥Á´±íÄæ×ª%20(20).c) |
-| 6-2 | Ë³Ğò±í²Ù×÷¼¯ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-2_Ë³Ğò±í²Ù×÷¼¯%20(20).c) |
-| 6-3 | ÇóÁ´Ê½±íµÄ±í³¤ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-3_ÇóÁ´Ê½±íµÄ±í³¤%20(10).c) |
-| 6-4 | Á´Ê½±íµÄ°´ĞòºÅ²éÕÒ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-4_Á´Ê½±íµÄ°´ĞòºÅ²éÕÒ%20(10).c) |
-| 6-5 | Á´Ê½±í²Ù×÷¼¯ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-5_Á´Ê½±í²Ù×÷¼¯%20(20).c) |
-| 6-6 | ´øÍ·½áµãµÄÁ´Ê½±í²Ù×÷¼¯ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-6_´øÍ·½áµãµÄÁ´Ê½±í²Ù×÷¼¯%20(20).c) |
-| 6-7 | ÔÚÒ»¸öÊı×éÖĞÊµÏÖÁ½¸ö¶ÑÕ» (20) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-7_ÔÚÒ»¸öÊı×éÖĞÊµÏÖÁ½¸ö¶ÑÕ»%20(20).c) |
-| 6-8 | Çó¶ş²æÊ÷¸ß¶È (20) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-8_Çó¶ş²æÊ÷¸ß¶È%20(20).c) |
-| 6-9 | ¶ş²æÊ÷µÄ±éÀú (25) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-9_¶ş²æÊ÷µÄ±éÀú%20(25).c) |
-| 6-10 | ¶ş·Ö²éÕÒ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-10_¶ş·Ö²éÕÒ%20(20).c) |
-| 6-11 | ÏÈĞòÊä³öÒ¶½áµã (15) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-11_ÏÈĞòÊä³öÒ¶½áµã%20(15).c) |
-| 6-12 | ¶ş²æËÑË÷Ê÷µÄ²Ù×÷¼¯ (30) | [`C`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/6-12_¶ş²æËÑË÷Ê÷µÄ²Ù×÷¼¯%20(30).c) |
-| 7-1 | ×î´ó×ÓÁĞºÍÎÊÌâ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-1_×î´ó×ÓÁĞºÍÎÊÌâ%20(20).py) |
-| 7-2 | Ò»Ôª¶àÏîÊ½µÄ³Ë·¨Óë¼Ó·¨ÔËËã (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-2_Ò»Ôª¶àÏîÊ½µÄ³Ë·¨Óë¼Ó·¨ÔËËã%20(20).py) |
-| 7-3 | Ê÷µÄÍ¬¹¹ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-3_Ê÷µÄÍ¬¹¹%20(25).py) |
-| 7-4 | ÊÇ·ñÍ¬Ò»¿Ã¶ş²æËÑË÷Ê÷ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-4_ÊÇ·ñÍ¬Ò»¿Ã¶ş²æËÑË÷Ê÷%20(25).py) |
-| 7-5 | ¶ÑÖĞµÄÂ·¾¶ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-5_¶ÑÖĞµÄÂ·¾¶%20(25).py) |
-| 7-6 | ÁĞ³öÁ¬Í¨¼¯ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-6_ÁĞ³öÁ¬Í¨¼¯%20(25).py) |
-| 7-7 | Áù¶È¿Õ¼ä (30)  | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-7_Áù¶È¿Õ¼ä%20(30)%20.cpp) |
-| 7-8 | ¹şÀû¡¤²¨ÌØµÄ¿¼ÊÔ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-8_¹şÀû¡¤²¨ÌØµÄ¿¼ÊÔ%20(25).cpp) |
-| 7-9 | ÂÃÓÎ¹æ»® (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-9_ÂÃÓÎ¹æ»®%20(25).cpp) |
-| 7-10 | ¹«Â·´å´åÍ¨ (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-10_¹«Â·´å´åÍ¨%20(30).cpp) |
-| 7-11 | ¹Ø¼ü»î¶¯ (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-11_¹Ø¼ü»î¶¯%20(30).cpp) |
-| 7-12 | ÅÅĞò (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-12_ÅÅĞò%20(25).cpp) |
-| 7-13 | Í³¼Æ¹¤Áä (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-13_Í³¼Æ¹¤Áä%20(20).py) |
-| 7-14 | µç»°ÁÄÌì¿ñÈË (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-14_µç»°ÁÄÌì¿ñÈË%20(25).cpp) |
-| 7-16 | Ò»Ôª¶àÏîÊ½Çóµ¼ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-16_Ò»Ôª¶àÏîÊ½Çóµ¼%20(20).cpp) |
-| 7-17 | ººÅµËşµÄ·Çµİ¹éÊµÏÖ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-17_ººÅµËşµÄ·Çµİ¹éÊµÏÖ%20(25).cpp) |
-| 7-18 | ÒøĞĞÒµÎñ¶ÓÁĞ¼òµ¥Ä£Äâ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-18_ÒøĞĞÒµÎñ¶ÓÁĞ¼òµ¥Ä£Äâ%20(25).cpp) |
-| 7-19 | ÇóÁ´Ê½ÏßĞÔ±íµÄµ¹ÊıµÚKÏî (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-19_ÇóÁ´Ê½ÏßĞÔ±íµÄµ¹ÊıµÚKÏî%20(20).cpp) |
-| 7-21 | ÇóÇ°×º±í´ïÊ½µÄÖµ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-21_ÇóÇ°×º±í´ïÊ½µÄÖµ%20(25).py) |
-| 7-22 | ¶ÑÕ»Ä£Äâ¶ÓÁĞ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-22_¶ÑÕ»Ä£Äâ¶ÓÁĞ%20(25).cpp) |
-| 7-23 | »¹Ô­¶ş²æÊ÷ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-23_»¹Ô­¶ş²æÊ÷%20(25).py) |
-| 7-24 | Ê÷ÖÖÍ³¼Æ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-24_Ê÷ÖÖÍ³¼Æ%20(25).cpp) |
-| 7-25 | ÅóÓÑÈ¦ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-25_ÅóÓÑÈ¦%20(25).cpp) |
-| 7-26 | WindowsÏûÏ¢¶ÓÁĞ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-26_WindowsÏûÏ¢¶ÓÁĞ%20(25).cpp) |
-| 7-28 | ËÑË÷Ê÷ÅĞ¶Ï (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-28_ËÑË÷Ê÷ÅĞ¶Ï%20(25).cpp) |
-| 7-29 | ĞŞÀíÄÁ³¡ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-29_ĞŞÀíÄÁ³¡%20(25).cpp) |
-| 7-30 | Ä¿Â¼Ê÷ (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-30_Ä¿Â¼Ê÷%20(30).cpp) |
-| 7-31 | µÑ¿¨¶ûÊ÷ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-31_µÑ¿¨¶ûÊ÷%20(25).cpp) |
-| 7-32 | ¸çÄáË¹±¤µÄ¡°ÆßÇÅÎÊÌâ¡± (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-32_¸çÄáË¹±¤µÄ¡°ÆßÇÅÎÊÌâ¡±%20(25).cpp) |
-| 7-33 | µØÏÂÃÔ¹¬Ì½Ë÷ (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-33_µØÏÂÃÔ¹¬Ì½Ë÷%20(30).cpp) |
-| 7-34 | ÈÎÎñµ÷¶ÈµÄºÏÀíĞÔ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-34_ÈÎÎñµ÷¶ÈµÄºÏÀíĞÔ%20(25).cpp) |
-| 7-35 | ³ÇÊĞ¼ä½ô¼±¾ÈÔ® (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-35_³ÇÊĞ¼ä½ô¼±¾ÈÔ®%20(25).cpp) |
-| 7-36 | Éç½»ÍøÂçÍ¼ÖĞ½áµãµÄ¡°ÖØÒªĞÔ¡±¼ÆËã (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-36_Éç½»ÍøÂçÍ¼ÖĞ½áµãµÄ¡°ÖØÒªĞÔ¡±¼ÆËã%20(30).cpp) |
-| 7-37 | Ä£ÄâEXCELÅÅĞò (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-37_Ä£ÄâEXCELÅÅĞò%20(25).cpp) |
-| 7-38 | Ñ°ÕÒ´ó¸»ÎÌ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-38_Ñ°ÕÒ´ó¸»ÎÌ%20(25).cpp) |
-| 7-39 | Ä§·¨ÓÅ»İÈ¯ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-39_Ä§·¨ÓÅ»İÈ¯%20(25).cpp) |
-| 7-40 | °ÂÔËÅÅĞĞ°ñ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-40_°ÂÔËÅÅĞĞ°ñ%20(25).cpp) |
-| 7-41 | PATÅÅÃû»ã×Ü (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-41_PATÅÅÃû»ã×Ü%20(25).cpp) |
-| 7-42 | ÕûĞÍ¹Ø¼ü×ÖµÄÉ¢ÁĞÓ³Éä (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-42_ÕûĞÍ¹Ø¼ü×ÖµÄÉ¢ÁĞÓ³Éä%20(25).cpp) |
-| 7-43 | ×Ö·û´®¹Ø¼ü×ÖµÄÉ¢ÁĞÓ³Éä (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-43_×Ö·û´®¹Ø¼ü×ÖµÄÉ¢ÁĞÓ³Éä%20(25).cpp) |
-| 7-45 | º½¿Õ¹«Ë¾VIP¿Í»§²éÑ¯ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-45_º½¿Õ¹«Ë¾VIP¿Í»§²éÑ¯%20(25).cpp) |
-| 7-47 | ´òÓ¡Ñ¡¿ÎÑ§ÉúÃûµ¥ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-47_´òÓ¡Ñ¡¿ÎÑ§ÉúÃûµ¥%20(25).cpp) |
-| 7-49 | ´òÓ¡Ñ§ÉúÑ¡¿ÎÇåµ¥ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-49_´òÓ¡Ñ§ÉúÑ¡¿ÎÇåµ¥%20(25).cpp) |
-| 7-50 | ³©Í¨¹¤³ÌÖ®¾Ö²¿×îĞ¡»¨·ÑÎÊÌâ (35) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-50_³©Í¨¹¤³ÌÖ®¾Ö²¿×îĞ¡»¨·ÑÎÊÌâ%20(35).cpp) |
-| 7-51 | Á½¸öÓĞĞòÁ´±íĞòÁĞµÄºÏ²¢ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-51_Á½¸öÓĞĞòÁ´±íĞòÁĞµÄºÏ²¢%20(20).cpp) |
-| 7-52 | Á½¸öÓĞĞòÁ´±íĞòÁĞµÄ½»¼¯ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-52_Á½¸öÓĞĞòÁ´±íĞòÁĞµÄ½»¼¯%20(25).cpp) |
-| 7-53 | Á½¸öÓĞĞòĞòÁĞµÄÖĞÎ»Êı (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/Êı¾İ½á¹¹ÓëËã·¨ÌâÄ¿¼¯£¨ÖĞÎÄ£©/7-53_Á½¸öÓĞĞòĞòÁĞµÄÖĞÎ»Êı%20(25).cpp) |
+| 6-1 | å•é“¾è¡¨é€†è½¬ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-1_å•é“¾è¡¨é€†è½¬%20(20).c) |
+| 6-2 | é¡ºåºè¡¨æ“ä½œé›† (20) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-2_é¡ºåºè¡¨æ“ä½œé›†%20(20).c) |
+| 6-3 | æ±‚é“¾å¼è¡¨çš„è¡¨é•¿ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-3_æ±‚é“¾å¼è¡¨çš„è¡¨é•¿%20(10).c) |
+| 6-4 | é“¾å¼è¡¨çš„æŒ‰åºå·æŸ¥æ‰¾ (10) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-4_é“¾å¼è¡¨çš„æŒ‰åºå·æŸ¥æ‰¾%20(10).c) |
+| 6-5 | é“¾å¼è¡¨æ“ä½œé›† (20) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-5_é“¾å¼è¡¨æ“ä½œé›†%20(20).c) |
+| 6-6 | å¸¦å¤´ç»“ç‚¹çš„é“¾å¼è¡¨æ“ä½œé›† (20) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-6_å¸¦å¤´ç»“ç‚¹çš„é“¾å¼è¡¨æ“ä½œé›†%20(20).c) |
+| 6-7 | åœ¨ä¸€ä¸ªæ•°ç»„ä¸­å®ç°ä¸¤ä¸ªå †æ ˆ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-7_åœ¨ä¸€ä¸ªæ•°ç»„ä¸­å®ç°ä¸¤ä¸ªå †æ ˆ%20(20).c) |
+| 6-8 | æ±‚äºŒå‰æ ‘é«˜åº¦ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-8_æ±‚äºŒå‰æ ‘é«˜åº¦%20(20).c) |
+| 6-9 | äºŒå‰æ ‘çš„éå† (25) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-9_äºŒå‰æ ‘çš„éå†%20(25).c) |
+| 6-10 | äºŒåˆ†æŸ¥æ‰¾ (20) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-10_äºŒåˆ†æŸ¥æ‰¾%20(20).c) |
+| 6-11 | å…ˆåºè¾“å‡ºå¶ç»“ç‚¹ (15) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-11_å…ˆåºè¾“å‡ºå¶ç»“ç‚¹%20(15).c) |
+| 6-12 | äºŒå‰æœç´¢æ ‘çš„æ“ä½œé›† (30) | [`C`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/6-12_äºŒå‰æœç´¢æ ‘çš„æ“ä½œé›†%20(30).c) |
+| 7-1 | æœ€å¤§å­åˆ—å’Œé—®é¢˜ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-1_æœ€å¤§å­åˆ—å’Œé—®é¢˜%20(20).py) |
+| 7-2 | ä¸€å…ƒå¤šé¡¹å¼çš„ä¹˜æ³•ä¸åŠ æ³•è¿ç®— (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-2_ä¸€å…ƒå¤šé¡¹å¼çš„ä¹˜æ³•ä¸åŠ æ³•è¿ç®—%20(20).py) |
+| 7-3 | æ ‘çš„åŒæ„ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-3_æ ‘çš„åŒæ„%20(25).py) |
+| 7-4 | æ˜¯å¦åŒä¸€æ£µäºŒå‰æœç´¢æ ‘ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-4_æ˜¯å¦åŒä¸€æ£µäºŒå‰æœç´¢æ ‘%20(25).py) |
+| 7-5 | å †ä¸­çš„è·¯å¾„ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-5_å †ä¸­çš„è·¯å¾„%20(25).py) |
+| 7-6 | åˆ—å‡ºè¿é€šé›† (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-6_åˆ—å‡ºè¿é€šé›†%20(25).py) |
+| 7-7 | å…­åº¦ç©ºé—´ (30)  | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-7_å…­åº¦ç©ºé—´%20(30)%20.cpp) |
+| 7-8 | å“ˆåˆ©Â·æ³¢ç‰¹çš„è€ƒè¯• (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-8_å“ˆåˆ©Â·æ³¢ç‰¹çš„è€ƒè¯•%20(25).cpp) |
+| 7-9 | æ—…æ¸¸è§„åˆ’ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-9_æ—…æ¸¸è§„åˆ’%20(25).cpp) |
+| 7-10 | å…¬è·¯æ‘æ‘é€š (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-10_å…¬è·¯æ‘æ‘é€š%20(30).cpp) |
+| 7-11 | å…³é”®æ´»åŠ¨ (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-11_å…³é”®æ´»åŠ¨%20(30).cpp) |
+| 7-12 | æ’åº (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-12_æ’åº%20(25).cpp) |
+| 7-13 | ç»Ÿè®¡å·¥é¾„ (20) | [`Python`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-13_ç»Ÿè®¡å·¥é¾„%20(20).py) |
+| 7-14 | ç”µè¯èŠå¤©ç‹‚äºº (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-14_ç”µè¯èŠå¤©ç‹‚äºº%20(25).cpp) |
+| 7-16 | ä¸€å…ƒå¤šé¡¹å¼æ±‚å¯¼ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-16_ä¸€å…ƒå¤šé¡¹å¼æ±‚å¯¼%20(20).cpp) |
+| 7-17 | æ±‰è¯ºå¡”çš„éé€’å½’å®ç° (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-17_æ±‰è¯ºå¡”çš„éé€’å½’å®ç°%20(25).cpp) |
+| 7-18 | é“¶è¡Œä¸šåŠ¡é˜Ÿåˆ—ç®€å•æ¨¡æ‹Ÿ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-18_é“¶è¡Œä¸šåŠ¡é˜Ÿåˆ—ç®€å•æ¨¡æ‹Ÿ%20(25).cpp) |
+| 7-19 | æ±‚é“¾å¼çº¿æ€§è¡¨çš„å€’æ•°ç¬¬Ké¡¹ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-19_æ±‚é“¾å¼çº¿æ€§è¡¨çš„å€’æ•°ç¬¬Ké¡¹%20(20).cpp) |
+| 7-21 | æ±‚å‰ç¼€è¡¨è¾¾å¼çš„å€¼ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-21_æ±‚å‰ç¼€è¡¨è¾¾å¼çš„å€¼%20(25).py) |
+| 7-22 | å †æ ˆæ¨¡æ‹Ÿé˜Ÿåˆ— (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-22_å †æ ˆæ¨¡æ‹Ÿé˜Ÿåˆ—%20(25).cpp) |
+| 7-23 | è¿˜åŸäºŒå‰æ ‘ (25) | [`Python`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-23_è¿˜åŸäºŒå‰æ ‘%20(25).py) |
+| 7-24 | æ ‘ç§ç»Ÿè®¡ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-24_æ ‘ç§ç»Ÿè®¡%20(25).cpp) |
+| 7-25 | æœ‹å‹åœˆ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-25_æœ‹å‹åœˆ%20(25).cpp) |
+| 7-26 | Windowsæ¶ˆæ¯é˜Ÿåˆ— (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-26_Windowsæ¶ˆæ¯é˜Ÿåˆ—%20(25).cpp) |
+| 7-28 | æœç´¢æ ‘åˆ¤æ–­ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-28_æœç´¢æ ‘åˆ¤æ–­%20(25).cpp) |
+| 7-29 | ä¿®ç†ç‰§åœº (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-29_ä¿®ç†ç‰§åœº%20(25).cpp) |
+| 7-30 | ç›®å½•æ ‘ (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-30_ç›®å½•æ ‘%20(30).cpp) |
+| 7-31 | ç¬›å¡å°”æ ‘ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-31_ç¬›å¡å°”æ ‘%20(25).cpp) |
+| 7-32 | å“¥å°¼æ–¯å ¡çš„â€œä¸ƒæ¡¥é—®é¢˜â€ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-32_å“¥å°¼æ–¯å ¡çš„â€œä¸ƒæ¡¥é—®é¢˜â€%20(25).cpp) |
+| 7-33 | åœ°ä¸‹è¿·å®«æ¢ç´¢ (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-33_åœ°ä¸‹è¿·å®«æ¢ç´¢%20(30).cpp) |
+| 7-34 | ä»»åŠ¡è°ƒåº¦çš„åˆç†æ€§ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-34_ä»»åŠ¡è°ƒåº¦çš„åˆç†æ€§%20(25).cpp) |
+| 7-35 | åŸå¸‚é—´ç´§æ€¥æ•‘æ´ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-35_åŸå¸‚é—´ç´§æ€¥æ•‘æ´%20(25).cpp) |
+| 7-36 | ç¤¾äº¤ç½‘ç»œå›¾ä¸­ç»“ç‚¹çš„â€œé‡è¦æ€§â€è®¡ç®— (30) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-36_ç¤¾äº¤ç½‘ç»œå›¾ä¸­ç»“ç‚¹çš„â€œé‡è¦æ€§â€è®¡ç®—%20(30).cpp) |
+| 7-37 | æ¨¡æ‹ŸEXCELæ’åº (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-37_æ¨¡æ‹ŸEXCELæ’åº%20(25).cpp) |
+| 7-38 | å¯»æ‰¾å¤§å¯Œç¿ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-38_å¯»æ‰¾å¤§å¯Œç¿%20(25).cpp) |
+| 7-39 | é­”æ³•ä¼˜æƒ åˆ¸ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-39_é­”æ³•ä¼˜æƒ åˆ¸%20(25).cpp) |
+| 7-40 | å¥¥è¿æ’è¡Œæ¦œ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-40_å¥¥è¿æ’è¡Œæ¦œ%20(25).cpp) |
+| 7-41 | PATæ’åæ±‡æ€» (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-41_PATæ’åæ±‡æ€»%20(25).cpp) |
+| 7-42 | æ•´å‹å…³é”®å­—çš„æ•£åˆ—æ˜ å°„ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-42_æ•´å‹å…³é”®å­—çš„æ•£åˆ—æ˜ å°„%20(25).cpp) |
+| 7-43 | å­—ç¬¦ä¸²å…³é”®å­—çš„æ•£åˆ—æ˜ å°„ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-43_å­—ç¬¦ä¸²å…³é”®å­—çš„æ•£åˆ—æ˜ å°„%20(25).cpp) |
+| 7-45 | èˆªç©ºå…¬å¸VIPå®¢æˆ·æŸ¥è¯¢ (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-45_èˆªç©ºå…¬å¸VIPå®¢æˆ·æŸ¥è¯¢%20(25).cpp) |
+| 7-47 | æ‰“å°é€‰è¯¾å­¦ç”Ÿåå• (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-47_æ‰“å°é€‰è¯¾å­¦ç”Ÿåå•%20(25).cpp) |
+| 7-49 | æ‰“å°å­¦ç”Ÿé€‰è¯¾æ¸…å• (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-49_æ‰“å°å­¦ç”Ÿé€‰è¯¾æ¸…å•%20(25).cpp) |
+| 7-50 | ç•…é€šå·¥ç¨‹ä¹‹å±€éƒ¨æœ€å°èŠ±è´¹é—®é¢˜ (35) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-50_ç•…é€šå·¥ç¨‹ä¹‹å±€éƒ¨æœ€å°èŠ±è´¹é—®é¢˜%20(35).cpp) |
+| 7-51 | ä¸¤ä¸ªæœ‰åºé“¾è¡¨åºåˆ—çš„åˆå¹¶ (20) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-51_ä¸¤ä¸ªæœ‰åºé“¾è¡¨åºåˆ—çš„åˆå¹¶%20(20).cpp) |
+| 7-52 | ä¸¤ä¸ªæœ‰åºé“¾è¡¨åºåˆ—çš„äº¤é›† (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-52_ä¸¤ä¸ªæœ‰åºé“¾è¡¨åºåˆ—çš„äº¤é›†%20(25).cpp) |
+| 7-53 | ä¸¤ä¸ªæœ‰åºåºåˆ—çš„ä¸­ä½æ•° (25) | [`C++`](https://github.com/tiny656/PAT/blob/master/æ•°æ®ç»“æ„ä¸ç®—æ³•é¢˜ç›®é›†ï¼ˆä¸­æ–‡ï¼‰/7-53_ä¸¤ä¸ªæœ‰åºåºåˆ—çš„ä¸­ä½æ•°%20(25).cpp) |
